@@ -1,5 +1,11 @@
 ## SQL Server 2005/2008 syntax file for Vim
 
+This is forked (but not much of a readme :-)
+
+I've moved syntax to the appropriate directory
+and added crude ftdetect
+
+
 Author:  Benjamin Hoffstein  
 Contact: ben@hoffstein.net
 
